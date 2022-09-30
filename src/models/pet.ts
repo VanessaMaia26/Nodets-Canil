@@ -141,5 +141,4 @@ export const Pet = {
             item.name.toLowerCase().indexOf(name.toLowerCase()) > -1
         );
     }
-    
 };
